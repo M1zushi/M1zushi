@@ -1,11 +1,16 @@
 <h1 align="center">Hallo, I'm M1zushi, simply known as Mizu</h1>
 <h3 align="center">A young dev that has no idea how anything he makes works</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m1zushi&label=Profile%20views&color=0e75b6&style=flat" alt="m1zushi" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1zushi" alt="m1zushi" /></a> </p>
 
-- 🔭 I’m currently working primarily on a timer website for fun
+- 🔭 I’m currently working primarily on [a timer website for fun](https://github.com/M1zushi/webtimer0)
+
 - 🌱 I’m currently learning **react js, react native, and django (soon SQL)**
+
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact **Monkeytype is the best typing website.**
 
 
