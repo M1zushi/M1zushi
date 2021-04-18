@@ -11,7 +11,7 @@
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact **Monkeytype is the best typing website.**
+- ⚡ Software **I use Atom, I know it's only a text editor but I still prefer it.**
 
 
 <h3 align="left">Languages and Tools:</h3>
