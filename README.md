@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working primarily on [a timer website for fun](https://github.com/M1zushi/webtimer0)
 
-- 🌱 I’m currently learning **react js, react native, and django (soon SQL)**
+- 🌱 I’m focusing on **CSS, Linux, and Python**
 
-- 😄 Pronouns: He/Him
+- ☕️ Pronouns: He/Him
 
 - ⚡ Software: **I use Atom, I know it's only a text editor but I still prefer it.**
 
