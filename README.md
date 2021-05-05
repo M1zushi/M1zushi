@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m1zushi&label=Profile%20views&color=0e75b6&style=flat" alt="m1zushi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1zushi" alt="m1zushi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1zushi&theme=onedark" alt="m1zushi" /></a> </p>
 
 - 🔭 I’m currently working primarily on [a Google Search front](https://github.com/M1zushi/searchfront1)
 
