@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1zushi&theme=onedark" alt="m1zushi" /></a> </p>
 
-- 🔭 I’m currently working primarily on [a Google Search front](https://github.com/M1zushi/searchfront1)
+- 🔭 I’m currently working primarily on [learning pygame with a sample project](https://github.com/M1zushi/block-test-pygame)
 
 - 🌱 I’m focusing on **CSS, Linux, and Python**
 
