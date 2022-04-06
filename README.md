@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m1zushi&theme=onedark" alt="m1zushi" /></a> </p>
 
-- 🔭 I’m currently working primarily on a [cross platform speedrun timer (Mac/Win/UNIX](https://github.com/M1zushi/Timerunner)
+- 🔭 I’m currently working primarily on a [cross platform speedrun timer (Mac/Win/UNIX)](https://github.com/M1zushi/Timerunner)
 
 - 🌱 I’m focusing on **CSS, Linux, and Python**
 
