@@ -9,7 +9,7 @@
 
 - 🌱 I’m focusing on **App Dev + Electronics**
 
-- ☕️ Availability: **Kindly: please no**
+- ☕️ Availability: **Kindly - please no**
 
 - ⚡ Software: **I finally use VSC, however still need to return to Atom for a few things.**
 
